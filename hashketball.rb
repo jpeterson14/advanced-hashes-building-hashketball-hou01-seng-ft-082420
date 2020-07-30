@@ -43,30 +43,30 @@ def game_hash
     :blocks => "8",
     :slam_dunks => "5"
     }, {
-    :player_name => "",
-    :number => "",
-    :shoe => "",
-    :points => "",
-    :rebounds => "",
-    :assists => "",
-    :steals => "" ,
-    :blocks => "",
-    :slam_dunks => ""
+    :player_name => "Jason Terry",
+    :number => "31",
+    :shoe => "15",
+    :points => "19",
+    :rebounds => "2",
+    :assists => "2",
+    :steals => "4" ,
+    :blocks => "11",
+    :slam_dunks => "1"
     }]
   },
   :away => {
-  :team_name => "team name", 
-  :colors => ["colors"],
+  :team_name => "Charlotte Hornets", 
+  :colors => ["Turquoise", "Purple"],
   :players => [{
-    :player_name => "",
-    :number => "",
-    :shoe => "",
-    :points => "",
-    :rebounds => "",
-    :assists => "",
-    :steals => "" ,
-    :blocks => "",
-    :slam_dunks => ""
+    :player_name => "Jeff Adrien",
+    :number => "4",
+    :shoe => "18",
+    :points => "10",
+    :rebounds => "1",
+    :assists => "1",
+    :steals => "2" ,
+    :blocks => "7",
+    :slam_dunks => "2"
     }, {
     :player_name => "",
     :number => "",
